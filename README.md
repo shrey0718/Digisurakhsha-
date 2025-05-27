@@ -69,7 +69,7 @@ Explore the [Krypton](./wargames/krypton/) directory to begin your journey with 
 
 ## How to Use This Repository
 1. **Clone the Repository:**
-   git clone https://github.com/YourGitHubProfile/YourRepositoryName.git
+   https://github.com/shrey0718/Digisurakhsha-/tree/main
    Navigate the Directory Structure: Browse through the tryhackme and wargames folders to select a challenge of interest.
 3. Read the Walkthroughs: Each challenge folder contains a complete README.md file with detailed instructions and observations. Follow these guides to understand the processes and tools involved.
 4. Practice & Explore: Implement the techniques in your local or virtualized environment, modify the steps, and see how you can improve or adapt the methods.
